@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "822900586062",
+    "project_id": "ddddd-ee117",
+    "storage_bucket": "ddddd-ee117.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822900586062:android:a141c8ca19e3c4df2ab51f",
+        "android_client_info": {
+          "package_name": "com.example.divo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQoYvMStINFPeogSLzl2_gTtN9TiqsOwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
